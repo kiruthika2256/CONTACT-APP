@@ -54,6 +54,9 @@ This is a simple Contact Management app built with React. It allows you to add, 
 
 Contributions are welcome! If you have any suggestions or improvements for this project, please create a pull request.
 
+## Output
+![image](https://github.com/kiruthika2256/CONTACT-APP/assets/103475132/be13d428-b79f-4e4f-b5cd-5f7b4747b3d8)
+
 ## Conclusion
 
 This project was created by Kiruthika
