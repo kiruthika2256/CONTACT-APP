@@ -54,10 +54,10 @@ This is a simple Contact Management app built with React. It allows you to add, 
 
 Contributions are welcome! If you have any suggestions or improvements for this project, please create a pull request.
 
-## License
+## Conclusion
 
-This project is licensed under the [MIT License](LICENSE).
+This project was created by Kiruthika
 
-```
+
 
 Feel free to modify the content and sections based on the specifics of your project.
