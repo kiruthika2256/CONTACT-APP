@@ -1,6 +1,6 @@
 
 
-```
+
 # Contact Management App
 
 This is a simple Contact Management app built with React. It allows you to add, view, and manage contacts.
@@ -15,27 +15,27 @@ This is a simple Contact Management app built with React. It allows you to add, 
 
 1. Clone the repository:
 
-   ```shell
+   
    git clone <repository-url>
-   ```
+   
 
 2. Install dependencies:
 
-   ```shell
+   
    npm install
-   ```
+   
 
 3. Start the development server:
 
-   ```shell
+   
    npm start
-   ```
+   
 
 4. Open the app in your browser:
 
-   ```
+   
    http://localhost:3000
-   ```
+   
 
 ## Usage
 
